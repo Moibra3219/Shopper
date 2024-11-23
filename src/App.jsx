@@ -8,7 +8,7 @@ import Cart from './Pages/Cart';
 import LogInSignup from './Pages/LogInSignup';
 import Hero from './Components/Hero/Hero';
 
-import Footer from './Components/footer/footer';
+import Footer from './Components/Footer/Footer';
 import men_banner from './Components/assets/banner_mens.png'
 import kid_banner from './Components/assets/banner_kids.png'
 import women_banner from './Components/assets/banner_women.png'
