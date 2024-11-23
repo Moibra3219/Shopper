@@ -7,14 +7,14 @@ import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import LogInSignup from './Pages/LogInSignup';
 import Hero from './Components/Hero/Hero';
-<<<<<<< HEAD
+
 import Footer from './Components/footer/footer';
 import men_banner from './Components/assets/banner_mens.png'
 import kid_banner from './Components/assets/banner_kids.png'
 import women_banner from './Components/assets/banner_women.png'
-=======
+
 import Footer from './Components/Footer/Footer';
->>>>>>> 0845ee99f56063e3ccef51c57e10d3880b042bb9
+
 
 const App = () => {
 
